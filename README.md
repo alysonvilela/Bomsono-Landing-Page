@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alysonvilela/Bomsono-Landing-Page">
-    <img src="https://imgur.com/svHLZrP.gif" alt="Logo" width="300">
+    <img src="https://imgur.com/svHLZrP.gif" alt="Prev" width="500">
   </a>
 
   <h3 align="center">BOMSONO LANDING PAGE</h3>
@@ -55,11 +55,11 @@ Eu estava utilizando o celular quando decidi instalar alguns apps que me recomen
 ### Construção
 Desenvolvido um protótipo bem básico no vosso querido [Adobe XD](), é a hora de saber qual tecnologia vamos aplicar neste projeto.
 
-* [HTML]()
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 	* Sintaxe geral
-* [CSS]()
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 	* Estilização
-* [Javascript]()
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
 	* Menu para mobile
 	* Carrossel
 
@@ -76,9 +76,9 @@ Para poder participar do desafio basta seguir os seguintes passos:
 ### Pré-requisitos
 Obviamente, você precisa de um editor de texto e algum visualizador do projeto, aqui vão minhas recomendações:
 
-- [Visual Studio Code]() você já sabe né?!
-- [Adobe XD]() para poder visualizar as dimensões e proporções  do projeto.
-- [Git Bash]() ou um terminal de sua preferência para utilizar este template.
+- [Visual Studio Code](https://code.visualstudio.com/) você já sabe né?!
+- [Adobe XD](https://www.adobe.com/br/products/xd.html) para poder visualizar as dimensões e proporções  do projeto.
+- [Git Bash](https://git-scm.com/download/win) ou um terminal de sua preferência para utilizar este template.
 ``
 
 ### Instalação
