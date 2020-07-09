@@ -4,11 +4,9 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/alysonvilela/Bomsono-Landing-Page">
     ![Preview](https://i.imgur.com/svHLZrP.gif](https://i.imgur.com/svHLZrP.gif)
-  </a>
 
-  <h3 align="center">BOMSONO LANDING PAGE</h3>
+<h3 align="center">BOMSONO LANDING PAGE</h3>
 
   <p align="center">
     Uma landing page baseada na AppStore.
