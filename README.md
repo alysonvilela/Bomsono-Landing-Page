@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alysonvilela/Bomsono-Landing-Page">
-    <img src="https://imgur.com/svHLZrP.gif" alt="Prev" width="500">
+    ![Preview](https://i.imgur.com/svHLZrP.gif](https://i.imgur.com/svHLZrP.gif)
   </a>
 
   <h3 align="center">BOMSONO LANDING PAGE</h3>
