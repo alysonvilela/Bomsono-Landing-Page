@@ -3,8 +3,7 @@
 
 
 <br />
-<p align="center">
-    ![Preview](https://i.imgur.com/svHLZrP.gif)
+![enter image description here](https://i.imgur.com/kKegiXC.png)
 
 <h3 align="center">BOMSONO LANDING PAGE</h3>
 
