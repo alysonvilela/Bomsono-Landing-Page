@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-    ![Preview](https://i.imgur.com/svHLZrP.gif](https://i.imgur.com/svHLZrP.gif)
+    ![Preview](https://i.imgur.com/svHLZrP.gif)
 
 <h3 align="center">BOMSONO LANDING PAGE</h3>
 
