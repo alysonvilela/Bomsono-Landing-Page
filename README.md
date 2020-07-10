@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![preview](https://i.imgur.com/svHLZrP.gif)
+[![preview](https://i.imgur.com/svHLZrP.gif)[linkedin-url]
 
 <br />
 <h3 align="center">BOMSONO LANDING PAGE</h3>
